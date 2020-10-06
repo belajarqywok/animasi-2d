@@ -1,2 +1,2 @@
 # animasi-2d
-#Flash actionscript
+#actionscript 2.0
